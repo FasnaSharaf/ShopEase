@@ -1,4 +1,4 @@
-# S H O P E A S E ~ Shop with Ease!
+# S H O P E A S E ~ Shop with Ease Nearby!
 <b>(Ongoing project...By FasnaSharaf, sreelakshmisatheesh, anna-197, Fathimaa-7 )</b>
 ## PROBLEM STATEMENT
 
