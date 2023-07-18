@@ -1,5 +1,5 @@
 # S H O P E A S E ~ Shop with Ease Nearby!
-<b>(Ongoing project...By FasnaSharaf, sreelakshmisatheesh, anna-197, Fathimaa-7 )</b>
+<b>(Project...By FasnaSharaf, sreelakshmisatheesh, anna-197, Fathimaa-7 )</b>
 ## PROBLEM STATEMENT
 
 “ India has the highest shop density in the world and about 70 million small merchants who collectively control almost 90% of India's retail trade “ ie, we are encircled by many different small-scale retailers but frequently depending on giant-scale markets can diminish the upliftment of poorer sectioned merchants and increase the rich-poor gap. 
