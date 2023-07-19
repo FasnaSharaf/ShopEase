@@ -14,6 +14,7 @@ We introduce <b>"ShopEase", “AN ONLINE PLATFORM THAT PROVIDES LIVE COUNT AND B
 
 https://user-images.githubusercontent.com/77000606/222957582-05d31a58-7c70-465d-8440-6fbf4a45af6b.mp4
 
+
 ## WORKING
 <b>PHASE 1</b>= Users can enter the desired location and essential things they want to buy. The platform will display nearby stores that contain the required commodity and display the live count of that commodity in that particular store. For example, Mr. X requires 2  bread packets at 11.00 pm-midnight. He doesn't know which shops will be open around that time and if some shops are open, he has no idea if the required food will be there or not. He, therefore, enters this platform after giving the location and finds a nearby store, say S1,  within 3 km that contains 5 packets of bread. He can now directly go and buy the same without any rush and thereby reducing fuel consumption and accidents at night. He too can avoid a random selection of stores under simple guesses.
 
