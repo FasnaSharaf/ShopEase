@@ -12,7 +12,9 @@ Last but not least, there are times when we need a bulk of a commodity, say 15 p
 ## SOLUTION
 We introduce <b>"ShopEase", “AN ONLINE PLATFORM THAT PROVIDES LIVE COUNT AND BRAND DETAILS OF EACH ITEM IN THE STORE THAT IS VISIBLE TO BOTH USERS AND SHOPKEEPERS”</b> This helps common people to choose the best store with the required quantity near to them. Additionally, shop owners will get a live idea about which item is liked and brought by the customer most which enhances promoting the best quality product in the market. So the shop owners can accordingly take the quantity of most spent items within a short span of time.
 
-https://user-images.githubusercontent.com/77000606/222957582-05d31a58-7c70-465d-8440-6fbf4a45af6b.mp4
+
+
+https://github.com/FasnaSharaf/ShopEase/assets/83363902/ff75691c-363a-4c45-857c-2772a5c1fe2f
 
 
 ## WORKING
